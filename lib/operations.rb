@@ -9,10 +9,6 @@ def unsafe?(speed)
    false 
  end
  
-   
-end
-
-
 #speed<40
 
 require "pry"
