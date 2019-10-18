@@ -12,10 +12,10 @@ end
 
 #speed<40
 
+require "pry"
 def not_safe?(speed)
    #binding.pry
-   
-   
+
 end 
 	
 
