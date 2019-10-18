@@ -15,7 +15,7 @@ end
 require "pry"
 def not_safe?(speed)
    #binding.pry
-   speed < 40? 60 
+   speed < 40
     true
 
 end 
