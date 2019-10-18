@@ -1,4 +1,5 @@
-def unsafe?(speed)
+
+ef unsafe?(speed)
  if unsafe(40>0)
    puts "5"
  else unsafe(0<60)
