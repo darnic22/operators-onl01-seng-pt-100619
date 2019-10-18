@@ -1,6 +1,6 @@
 require "pry"
 def unsafe?(speed)
-  binding.pry
+  #binding.pry
  if unsafe(40>0)
    puts "5"
  end
